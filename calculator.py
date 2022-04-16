@@ -27,3 +27,6 @@ elif operation == '/':
 
 else:
     print('You have not typed a valid operator, please run the program again.')
+
+# Call calculate() outside of the function
+calculate()
